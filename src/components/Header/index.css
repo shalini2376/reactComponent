@@ -41,12 +41,12 @@
   font-weight: 500;
 }
 @media (max-width: 567px) {
-  .nav-menu{
+  .nav-menu {
     flex-wrap: wrap;
     justify-content: center;
     box-sizing: border-box;
   }
-  .nav-menu-items-div{
+  .nav-menu-items-div {
     justify-content: space-evenly;
   }
 }
